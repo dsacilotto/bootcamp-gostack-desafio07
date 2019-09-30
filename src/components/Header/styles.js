@@ -5,8 +5,8 @@ import logo from '../../assets/logo.png';
 
 export const Wrapper = styled.SafeAreaView`
   flex: 0;
-  background: ${colors.dark};
   flex-direction: row;
+  margin-bottom: 50px;
 `;
 
 export const Container = styled.View`
