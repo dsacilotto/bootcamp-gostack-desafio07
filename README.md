@@ -28,7 +28,7 @@ The app uses the Flux Architecture.
 
 ```bash
 # After clone the project
-$ cd bootcamp-gostack-desafio06
+$ cd bootcamp-gostack-desafio07
 
 # Install packages
 $ yarn install
